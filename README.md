@@ -1,1 +1,1 @@
-# Lesson-12-Forecaster-App-App-Lab-
+JavaScript, often abbreviated as JS, is a programming language and core technology of the World Wide Web, alongside HTML and CSS. As of 2024, 98.9% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.
