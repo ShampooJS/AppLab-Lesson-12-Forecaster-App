@@ -1,4 +1,5 @@
 // Build the Random Forecaster app
+//Make sure you have the Daily Weather dataset imported...
 var cityList = getColumn("Daily Weather", "City");
 var forecastNumberList = getColumn("Daily Weather", "Forecast Number");
 var conditionList = getColumn("Daily Weather", "Condition Description");
